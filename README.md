@@ -31,12 +31,6 @@ This project focuses on analyzing and predicting the quality of red wine using m
 - Mean Absolute Error (MAE): **0.5578125**
 - R-squared (R2): **-0.09329418699385394**
 - Predicted wine quality (normalized scale): **5.00**
-  
-  ![image](https://github.com/user-attachments/assets/d8fba98b-cd90-4771-8900-7ec4ecdff16f)
-
-  
-  **Example Visualization**
-Relationship between chlorides and quality:
 
 ![image](https://github.com/user-attachments/assets/ea9a874e-9f3e-46d5-b73b-58f9c5cb2d4e)
 
