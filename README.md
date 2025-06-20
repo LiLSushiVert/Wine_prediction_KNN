@@ -27,10 +27,10 @@ This project focuses on analyzing and predicting the quality of red wine using m
 - Accuracy on test data: **0.5125**
 - Validation accuracy:  **0.515625**
 - Evaluation metrics: MSE, MAE, R² included for deeper performance understanding.
-  Mean Squared Error (MSE): **0.7109375**
-  Mean Absolute Error (MAE): **0.5578125**
-  R-squared (R2): **-0.09329418699385394**
-  Predicted wine quality (normalized scale): **5.00**
+- Mean Squared Error (MSE): **0.7109375**
+- Mean Absolute Error (MAE): **0.5578125**
+- R-squared (R2): **-0.09329418699385394**
+- Predicted wine quality (normalized scale): **5.00**
   
   ![image](https://github.com/user-attachments/assets/d8fba98b-cd90-4771-8900-7ec4ecdff16f)
 
